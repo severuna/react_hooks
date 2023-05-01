@@ -1,13 +1,16 @@
 {
   "files": {
-    "main.css": "/react_hooks/static/css/main.00caf58e.css",
-    "main.js": "/react_hooks/static/js/main.1996679f.js",
+    "main.css": "/react_hooks/static/css/main.5261706b.css",
+    "main.js": "/react_hooks/static/js/main.3ed8a877.js",
+    "static/media/man.svg": "/react_hooks/static/media/man.ff5262da068d60d38358fad5e60bd254.svg",
+    "static/media/unknown.svg": "/react_hooks/static/media/unknown.73ce8537c1b7b1dd3492b82210bc4d66.svg",
+    "static/media/women.svg": "/react_hooks/static/media/women.6db45f854dfa76d44038f394ee4ab98f.svg",
     "index.html": "/react_hooks/index.html",
-    "main.00caf58e.css.map": "/react_hooks/static/css/main.00caf58e.css.map",
-    "main.1996679f.js.map": "/react_hooks/static/js/main.1996679f.js.map"
+    "main.5261706b.css.map": "/react_hooks/static/css/main.5261706b.css.map",
+    "main.3ed8a877.js.map": "/react_hooks/static/js/main.3ed8a877.js.map"
   },
   "entrypoints": [
-    "static/css/main.00caf58e.css",
-    "static/js/main.1996679f.js"
+    "static/css/main.5261706b.css",
+    "static/js/main.3ed8a877.js"
   ]
 }
